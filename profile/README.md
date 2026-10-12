@@ -25,7 +25,7 @@ Searches such as Banana Dev model hosting, Banana Dev serverless GPU, and Banana
 | **Remembers context** | Models, keys, and usage help you return to the next task fast. |
 | **Fast feedback** | Open Banana Dev, pick a model, and call without switching tools. |
 
-![Banana Dev](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_5ZvS0-NlpcTOTJag0Epfr2JRNC5hbWCnL7XbiCGUWA&s)
+![Banana Dev](https://ph-files.imgix.net/17efa3a1-068e-49f6-a270-73c1d6391eed.png?auto=format&fit=crop)
 
 ## Key Features of Banana Dev
 
